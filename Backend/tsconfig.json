@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "types": ["node"],
+    "target": "ESNext",
+    "module": "CommonJS",
+    "outDir": "functions apis", // Output directory for compiled files
+    "rootDir": "./", // Directory where your test files are located
+    "strict": true,
+    "esModuleInterop": true,
+  },
+  "include": [
+    "src/services/**/*.ts",
+    "test/serviceTests/**/*.ts",
+    "src/controllers/**/*.ts",
+    "test/controllersTests/**/*.ts",
+    "src/routes/**/*.ts", 
+    "src/App.ts",  
+    "test/App.spec.ts"],
+  "exclude": [
+     // Exclude your main application source files
+  ]
+}

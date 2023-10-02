@@ -1,6 +1,23 @@
 # Car-Insurance-Quote-App-with-TDD
 This repository contains the code and documentation for building the backend of an insurance purchasing process while following the principles of Test-Driven Development (TDD).
 
+
+## Tech Stack
+
+**Client** 
+> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Tailwind](	https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Server**
+> ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![node js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+**DataBase** 
+> ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Test**
+> ![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
+
+<br />
+
 <div align="center">
 
 https://github.com/HelenaMission/Car-Insurance-Quote-App-with-TDD/assets/132238788/2f66b0f4-cb3f-411a-bd50-c0016b9d1a8b
@@ -74,7 +91,7 @@ To get started with this mission, follow these steps:
 
 <br/>
 
-Feel free to reach out if you have any questions or need assistance during this mission. Congratulations on completing the Backend TDD development!
+Feel free to reach out if you have any questions or need assistance during this mission. 
 
 
 
